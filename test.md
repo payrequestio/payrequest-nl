@@ -6,11 +6,11 @@
                <div class="col-lg-12">
                   <div class="breadcrumb-inn">
                      <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s">
-                       <h2>Webmaster <span>Tools</span></h2>
+                       <h2>Test <span>Page</span></h2>
                      </div>
                   </div>
                </div>
             </div>
          </div>
       </section>
-      <!-- Breadcrumb End -->
+<!-- Breadcrumb End -->
