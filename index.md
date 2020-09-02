@@ -9,7 +9,7 @@ description: Everything you need to accept payments and to sell online.
       
  <div class="hero-shape5">
         
-<img src="https://payrequest.io/assets/logos/Icon%20white.png" alt="shape" style="max-width: 160px;">
+<img src="https://payrequest.io/assets/logos/payrequest-logo-color.png" alt="shape" style="max-width: 160px;">
          </div>
          <!-- Hero Shape End -->
           
