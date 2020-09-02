@@ -1,8 +1,4 @@
-{% if page.permanlink == "index.md" %}
-{% include 404.html %}
-{% else %}
-{% include navbar.html %}
-{% endif %}
+
 
 
  <!-- Breadcrumb Start -->

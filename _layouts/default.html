@@ -201,6 +201,13 @@ qp('track', 'ViewContent');
       </div>
       <!-- End Preloader -->
        
+
+{% if page.url == "test.md" %}
+{% include 404.html %}
+{% else %}
+{% include navbar.html %}
+{% endif %}
+       
        
       <!--Header Section Start-->
       <header class="header-area animated">
