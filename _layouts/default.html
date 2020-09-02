@@ -214,9 +214,13 @@ qp('track', 'ViewContent');
             <div class="row">
                <div class="col-lg-12 d-flex align-items-center justify-content-between">
                   <div class="logo-area scroll-hide-logo">
-                     <a href="index.php"> <img src="https://payrequest.io/assets/logos/payrequest-logo-white.png" alt="logo" style="
-    max-width: 200px;
-">   </a>
+                     <a href="index.php"> 
+{% if page.tags contains 'color-logo' %}
+{% include color-logo.html %}
+{% else %}
+{% include white-logo.html %}
+{% endif %}
+ </a>
                   </div>
                   <div class="logo-area scroll-show-logo">
                      <a href="index.php"> <img src="https://payrequest.io/assets/logos/payrequest-logo-color.png" alt="logo" style="
