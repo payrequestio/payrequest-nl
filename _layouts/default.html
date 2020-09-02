@@ -201,13 +201,12 @@ qp('track', 'ViewContent');
       </div>
       <!-- End Preloader -->
        
-
-{% if page.url == "test.md" %}
-{% include 404.html %}
+{% if page.tags contains 'color-logo' %}
+{% include color-logo.html %}
 {% else %}
-{% include navbar.html %}
+{% include white-logo.html %}
 {% endif %}
-       
+
        
       <!--Header Section Start-->
       <header class="header-area animated">
