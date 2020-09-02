@@ -201,11 +201,7 @@ qp('track', 'ViewContent');
       </div>
       <!-- End Preloader -->
        
-{% if page.tags contains 'color-logo' %}
-{% include color-logo.html %}
-{% else %}
-{% include white-logo.html %}
-{% endif %}
+
 
        
       <!--Header Section Start-->
@@ -216,9 +212,9 @@ qp('track', 'ViewContent');
                   <div class="logo-area scroll-hide-logo">
                      <a href="index.php"> 
 {% if page.tags contains 'color-logo' %}
-{% include color-logo.html %}
-{% else %}
 {% include white-logo.html %}
+{% else %}
+{% include color-logo.html %}
 {% endif %}
  </a>
                   </div>
