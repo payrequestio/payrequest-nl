@@ -78,7 +78,7 @@ description: Everything you need to accept payments and to sell online.
             </div>
          </div>
       </section>
-      <!-- Hero Section End -->
+ <!-- Hero Section End -->
        
  <!-- Companies Section Start -->
  <section class="companies-section section_b_70 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
@@ -108,17 +108,17 @@ description: Everything you need to accept payments and to sell online.
             </div>
          </div>
       </section>
-      <!-- Companies Section End -->
+ <!-- Companies Section End -->
        
 
 
 <section class="about-section">
-         <!-- Top Shape Start -->
+ <!-- Top Shape Start -->
          <div class="about-top-shape">
             <img src="http://themescare.com/demos/robofume-view/assets/img/about-shape.png" alt="about shape">
          </div>
-         <!-- Top Shape End -->
-         <!-- Bottom Shape Start -->
+ <!-- Top Shape End -->
+  <!-- Bottom Shape Start -->
 
   <!-- Bottom Shape End -->
   <!-- About Top Start -->
@@ -159,7 +159,7 @@ description: Everything you need to accept payments and to sell online.
                </div>
                
  </div>
-            <div class="row">
+ <div class="row">
                <div class="col-lg-4 col-md-6">
                   <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
                      <div class="blog-image">
@@ -167,7 +167,7 @@ description: Everything you need to accept payments and to sell online.
                         <img src="https://i.imgur.com/01Dd1Dh.png" alt="blog">
                         </a>
                      </div>
-                     <div class="blog-desc">
+  <div class="blog-desc">
                         
 <div class="blog-text">
                            <a href="#">
@@ -193,7 +193,7 @@ Payment Links</h3>
                         <img src="https://i.imgur.com/nh9CnvP.png" alt="blog">
                         </a>
                      </div>
-                     <div class="blog-desc">
+ <div class="blog-desc">
                         
 <div class="blog-text">
                            <a href="#">
@@ -217,7 +217,7 @@ Payment Links</h3>
                         <img src="https://i.imgur.com/wTSUMCp.png" alt="blog">
                         </a>
                      </div>
-                     <div class="blog-desc">
+ <div class="blog-desc">
      <div class="blog-text">
                            <a href="#">
                               <h3> 
@@ -320,7 +320,7 @@ Payment Links</h3>
             </div>
          </div>
       </section>
-      <!-- Choose Section End -->
+ <!-- Choose Section End -->
        
  <!-- Blog Section Start -->
 <section class="blog-section section_100">
@@ -470,7 +470,7 @@ Payment Links</h3>
             </div>
          </div>
       </section>
-      <!-- Blog Section End -->
+ <!-- Blog Section End -->
      
 
 <?php include "includes/features-section.php"; ?>     
