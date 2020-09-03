@@ -32,7 +32,7 @@ tags: [color-logo]
     
     
  <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
-            <h2>What is <span>ACH</span> we will explain:</h2>
+            <h2>What is <span>ACH</span></h2>
          </div>
     
 
