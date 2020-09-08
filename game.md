@@ -1,6 +1,7 @@
 ---
 title: PayRequest Game
 tags: [color-logo]
+layout: none
 ---
 
 <canvas id="gamescreen" width="960" height="640"></canvas>
