@@ -102,7 +102,7 @@ var game = {
 		//text
 		ctx.font = "20px Arial";
 		ctx.fillStyle = "black";
-	    ctx.fillText("Space Game", 20, 30);
+	    ctx.fillText("PayRequest Space Game", 20, 30);
 		ctx.fillText("Score: " + player.score.toFixed(0), canvas.width - 200, 30);
 		ctx.closePath();
 	},
