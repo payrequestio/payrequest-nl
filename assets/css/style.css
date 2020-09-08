@@ -3414,7 +3414,7 @@ li {
 }
 
 .error_bg {
-	background: url(../img/404-bg.png) no-repeat;
+	    background: linear-gradient(130deg, #1951bf 0%, #25b7c7 89%) !important;
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	background-position: center center;
