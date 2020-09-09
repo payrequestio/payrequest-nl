@@ -18,7 +18,7 @@ tags: [color-logo]
             </div>
          </div>
       </section>
-      <!-- Breadcrumb End -->
+<!-- Breadcrumb End -->
        
 <!-- Pricing Section Start -->
 <section class="pricing-section section_100">
@@ -136,7 +136,7 @@ tags: [color-logo]
             </div>
          </div>
       </section>
-      <!-- Pricing Section End -->
+<!-- Pricing Section End -->
        
 
  <!-- Search Overlay -->
@@ -159,4 +159,4 @@ tags: [color-logo]
             </div>
          </div>
       </div>
-      <!-- End Search Overlay -->
+ <!-- End Search Overlay -->
