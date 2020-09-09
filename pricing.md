@@ -1,5 +1,6 @@
 ---
 title: PayRequest Pricing
+tags: [color-logo]
 ---
 
 <!-- Breadcrumb Start -->
