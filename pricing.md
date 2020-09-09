@@ -128,7 +128,7 @@ tags: [color-logo]
                                  <a href="#" class="theme-btn mt-4">Order Now <span class="fa fa-chevron-right"></span></a>
                                  <p class="hidden-charge mt-3">No hidden charges!</p>
                               </div>
-                           </div>
+                            </div>
                         </div>
                      </div>
                   </div>
