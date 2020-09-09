@@ -3,14 +3,7 @@ title: Brand Assets
 tags: [color-logo]
 ---
 
- <!-- Start Preloader -->
-<div id="preloader">
-         <div class="preload-content">
-            <div id="dream-load"></div>
-         </div>
-      </div>
-      <!-- End Preloader -->
-       
+
 
  <!--Header Section Start-->
 <header class="header-area animated">
