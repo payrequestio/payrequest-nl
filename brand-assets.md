@@ -22,7 +22,7 @@ tags: [color-logo]
             </div>
          </div>
       </section>
-      <!-- Breadcrumb End -->
+<!-- Breadcrumb End -->
        
 <section class="about-page-section section_100 brand-assets">
 
@@ -399,4 +399,4 @@ tags: [color-logo]
             </div>
          </div>
       </div>
-      <!-- End Search Overlay -->
+<!-- End Search Overlay -->
