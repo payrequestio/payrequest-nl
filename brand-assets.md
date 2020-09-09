@@ -5,31 +5,8 @@ tags: [color-logo]
 
 
 
- <!--Header Section Start-->
-<header class="header-area animated">
-         <div class="container">
-            <div class="row">
-               <div class="col-lg-12 d-flex align-items-center justify-content-between">
-                  <div class="logo-area scroll-hide-logo">
-                     <a href="index.php"> <img src="https://payrequest.io/assets/logos/payrequest-logo-white.png" alt="logo" style="
-    max-width: 200px;
-">   </a>
-                  </div>
-                  <div class="logo-area scroll-show-logo">
-                     <a href="index.php"> <img src="https://payrequest.io/assets/logos/payrequest-logo-color.png" alt="logo" style="
-    max-width: 200px;
-"> </a>
-                  </div>
-              
-<?php include "includes/menu-area.php"; ?>
 
 
- </div>
-            </div>
-         </div>
-      </header>
-      <!--Header Section End-->
-       
   <!-- Breadcrumb Start -->
  <section class="breadcrumb-area">
          <div class="breadcrumb-shape"></div>
@@ -400,11 +377,6 @@ tags: [color-logo]
 
 
 
-
-
-<?php include "includes/action-footer.php"; ?>    
-  
- <?php include "includes/footer.php"; ?>
 
 
  <!-- Search Overlay -->
