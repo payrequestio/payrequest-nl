@@ -42,12 +42,17 @@ PayRequest makes it easy to create payment links and share them worldwide with a
 
 <div class="mt-3" style="/* margin-bottom: 150px; */">
 <br> 
-<a href="https://www.producthunt.com/posts/payrequest?utm_source=badge-top-post-badge&amp;utm_medium=badge&amp;utm_souce=badge-payrequest" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=176421&amp;theme=light&amp;period=daily" alt="PayRequest - Simple, fast payment links via Stripe and Mollie | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px"></a>
 
-
+<a href="https://www.producthunt.com/posts/payrequest?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-payrequest" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=176421&theme=dark" alt="PayRequest - Simple, fast payment links via Stripe and Mollie | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
 
 <img alt="Stripe logo" src="https://payrequest.io/assets/img/stripe-partner-badges/L_Color_Solid.svg" style="height: 63px;padding: 6px;">
-                        </div>
+
+<!-- TrustBox widget - Micro Review Count -->
+<div style="margin-left:10px;" class="trustpilot-widget" data-locale="en-US" data-template-id="5419b6a8b0d04a076446a9ad" data-businessunit-id="5f47f39cf225070001b40cfa" data-style-height="24px" data-style-width="250px" data-theme="light">
+  <a href="https://www.trustpilot.com/review/payrequest.io" target="_blank" rel="noopener">Trustpilot</a>
+</div>
+<!-- End TrustBox widget -->
+ </div>
                </div>
 
  <div class="col-lg-6 col-md-6">
@@ -62,4 +67,99 @@ PayRequest makes it easy to create payment links and share them worldwide with a
                </div>
             </div>
          </div>
-      </section>
+</section>
+
+
+ <!-- All Payment Methods Section Start -->
+ <section class="companies-section section_b_70 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
+         <div class="container">
+            <div class="row align-items-center">
+               <div class="col-lg-6">
+                  <div class="companies-left">
+                     <h4>We let you accept all payment methods</h4>
+                  </div>
+               </div>
+               <div class="col-lg-6">
+                  <div class="companies-slider owl-carousel">
+                     <div class="single-com-slider">
+                        <a href="#"><img src="https://payrequest.io/assets/img/payment-icons/ideal@2x.png" alt="ideal" /></a>
+                     </div>
+                     <div class="single-com-slider">
+                        <a href="#"><img src="https://payrequest.io/assets/img/payment-icons/visa@2x.png" alt="visa" /></a>
+                     </div>
+                     <div class="single-com-slider">
+                        <a href="#"><img src="https://payrequest.io/assets/img/payment-icons/mastercard@2x.png" alt="mastercard" /></a>
+                     </div>
+                     <div class="single-com-slider">
+                        <a href="#"><img src="https://payrequest.io/assets/img/payment-icons/sofort@2x.png" alt="sofort banking" /></a>
+                     </div>
+
+  <div class="single-com-slider">
+                        <a href="#"><img src="https://payrequest.io/assets/img/payment-icons/giropay@2x.png" alt="giropay" /></a>
+                     </div>
+
+
+ </div>
+               </div>
+            </div>
+         </div>
+</section>
+ <!-- All Payment Methods Section End -->
+
+
+
+ <section class="about-section">
+         <!-- Top Shape Start -->
+         <div class="about-top-shape">
+            <img src="http://themescare.com/demos/robofume-view/assets/img/about-shape.png" alt="about shape">
+         </div>
+         <!-- Top Shape End -->
+         <!-- Bottom Shape Start -->
+
+ <!-- Bottom Shape End -->
+ <!-- About Top Start -->
+<div class="about-top section_100">
+            <div class="container">
+             <div class="row align-items-center">
+                  <div class="col-lg-6">
+                     <div class="about-left wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeInLeft;">
+                        <h3>Manage all<br>Your Payment Pages<br>And Payment Links</h3>
+                        <p>The PayRequest Dashboard lets you manage all your payment links and more, with a simple overview you can view all status and reminders that are send, you will also get a log update when someone views, payment or pays your payment link.
+
+</p>
+                      
+</div>
+</div>
+<div class="col-lg-6">
+                     <div class="about-right wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
+                        <img src="https://payrequest.io/assets/img/banners/dashboard.png" alt="about">
+                     </div>
+</div>
+    </div>
+ </div>
+ </div>
+ <!-- About Top End -->
+ <!-- About Bottom Start -->
+ <div class="about-bottom section_b_100">
+            <div class="container">
+          <div class="row align-items-center">
+                  <div class="col-lg-6">
+                     <div class="about-right wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeInLeft;">
+                        <img src="https://ph-files.imgix.net/1bc052d0-8494-4055-8c79-9ee65c25f08e.png?auto=format&amp;auto=compress&amp;codec=mozjpeg&amp;cs=strip&amp;w=675.5555555555555&amp;h=380&amp;fit=max&amp;dpr=2" alt="about">
+                     </div>
+                  </div>
+                  <div class="col-lg-6">
+                     <div class="about-left wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
+ <h3>Dynamic Payment Links
+<br>For custom amounts</h3>
+                        <p>Save time with creating payment links, just use dynamic links like: payrequest.me/name/12,50 or even payrequest.me/12,50/title/email
+
+</p>
+                       
+</div>
+                  </div>
+ </div>
+ </div>
+ </div>
+ <!-- About Bottom End -->
+</section>
