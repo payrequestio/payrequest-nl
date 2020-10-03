@@ -78,7 +78,7 @@ tags: [color-logo]
 <div class="blog-desc">
                         <div class="meta-image">
                            <div class="author-round">
-                              <img src="https://pbs.twimg.com/profile_images/1181112639101001728/NBqdcmm7_400x400.png" alt="author">
+                              <img src="https://i.imgur.com/zF6DviU.png" alt="author">
                            </div>
                            <div class="tags">
                               
