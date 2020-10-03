@@ -1,6 +1,7 @@
 ---
 title: PayRequest | Security
 description: We at PayRequests takes security seriously
+tags: [color-logo]
 ---
 
 
@@ -88,7 +89,7 @@ description: We at PayRequests takes security seriously
                     
 <ul class="address-list">
                         <li>
-                           <p>Use your own logo &amp; background, insert your own title and description and of course amount.
+                           <p>Use your own logo &amp; background, insert your own title and description.
 
 
 </p>
