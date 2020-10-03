@@ -1,6 +1,5 @@
 ---
-title: App Store
-tags: [white-logo]
+title: Multi Language
 ---
 
 <section class="breadcrumb-area">
