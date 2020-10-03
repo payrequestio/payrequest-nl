@@ -1,5 +1,6 @@
 ---
 title: Multi Language
+tags: [color-logo]
 ---
 
 <section class="breadcrumb-area">
