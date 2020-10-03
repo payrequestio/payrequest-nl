@@ -1,3 +1,8 @@
+---
+title: App Store
+tags: [white-logo]
+---
+
 <section class="breadcrumb-area">
          <div class="breadcrumb-shape"></div>
          <div class="container">
