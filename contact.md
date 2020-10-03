@@ -45,19 +45,13 @@ tags: [color-logo]
                                  <input type="text" class="input-field" id="email" placeholder="Enter Your Email">
                               </div>
                            </div>
-                           <div class="col-lg-6">
+                           <div class="col-lg-12">
                               <div class="form-group">
                                  <label for="subjict">Subjict </label>
                                  <input type="text" class="input-field" id="subjict" placeholder="Write Your Subjict">
                               </div>
                            </div>
-                           <div class="col-lg-6">
-                              <div class="form-group">
-                                 <label for="phone">Phone </label>
-                                 <input type="text" class="input-field" id="phone" placeholder="Enter Your Phone No">
-                              </div>
-                           </div>
-                           <div class="col-lg-12">
+ <div class="col-lg-12">
                               <div class="form-group button-area">
                                  <label for="message">Message </label>
                                  <textarea id="message" class="input-field textarea" placeholder="Write Your Message"></textarea>
