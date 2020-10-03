@@ -103,7 +103,13 @@ description: Everything you need to accept payments and to sell online.
                      <div class="single-com-slider">
                         <a href="#"><img src="https://payrequest.io/assets/img/payment-icons/sofort@2x.png" alt="sofort banking" /></a>
                      </div>
-                  </div>
+
+  <div class="single-com-slider">
+                        <a href="#"><img src="https://payrequest.io/assets/img/payment-icons/giropay@2x.png" alt="giropay" /></a>
+                     </div>
+
+
+ </div>
                </div>
             </div>
          </div>
