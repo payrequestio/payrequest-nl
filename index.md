@@ -86,22 +86,22 @@ description: Everything you need to accept payments and to sell online.
             <div class="row align-items-center">
                <div class="col-lg-6">
                   <div class="companies-left">
-                     <h4>Startups with their own Payment Page</h4>
+                     <h4>We let you accept all payment methods</h4>
                   </div>
                </div>
                <div class="col-lg-6">
                   <div class="companies-slider owl-carousel">
                      <div class="single-com-slider">
-                        <a href="#"><img src="https://lh3.googleusercontent.com/hpCa0ZSQrEshrO7bktxy8zeoT4ncoOQ96S-WZcFcHBdWGm7izsCtPydY-86RN6vyMg" alt="companies" /></a>
+                        <a href="#"><img src="https://payrequest.io/assets/img/payment-icons/ideal@2x.png" alt="ideal" /></a>
                      </div>
                      <div class="single-com-slider">
-                        <a href="#"><img src="https://lh3.googleusercontent.com/hpCa0ZSQrEshrO7bktxy8zeoT4ncoOQ96S-WZcFcHBdWGm7izsCtPydY-86RN6vyMg" alt="companies" /></a>
+                        <a href="#"><img src="https://payrequest.io/assets/img/payment-icons/visa@2x.png" alt="visa" /></a>
                      </div>
                      <div class="single-com-slider">
-                        <a href="#"><img src="https://lh3.googleusercontent.com/hpCa0ZSQrEshrO7bktxy8zeoT4ncoOQ96S-WZcFcHBdWGm7izsCtPydY-86RN6vyMg" alt="companies" /></a>
+                        <a href="#"><img src="https://payrequest.io/assets/img/payment-icons/mastercard@2x.png" alt="mastercard" /></a>
                      </div>
                      <div class="single-com-slider">
-                        <a href="#"><img src="https://lh3.googleusercontent.com/hpCa0ZSQrEshrO7bktxy8zeoT4ncoOQ96S-WZcFcHBdWGm7izsCtPydY-86RN6vyMg" alt="companies" /></a>
+                        <a href="#"><img src="https://payrequest.io/assets/img/payment-icons/sofort@2x.png" alt="sofort banking" /></a>
                      </div>
                   </div>
                </div>
