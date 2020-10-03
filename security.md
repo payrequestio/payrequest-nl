@@ -72,7 +72,6 @@ tags: [color-logo]
                
 
 
-
 <div class="col-lg-4 d-flex">
                   <div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
                      
@@ -89,15 +88,13 @@ tags: [color-logo]
                     
 <ul class="address-list">
                         <li>
-                           <p>Use your own logo &amp; background, insert your own title and description.
-
-
+                           <p>We do not store any sensitive card data, we also only work together with PCI Level 1 Service Providers like Stripe.
 </p>
                         </li>
                         
  </ul>
 
- </div>
+  </div>
  </div>
 
 
@@ -120,16 +117,14 @@ tags: [color-logo]
                     
 <ul class="address-list">
                         <li>
-                           <p>We can send a email or sms reminder once a time but also per week, month or even daily.
-
-
+                           <p>Via our dashboard you can export your account data or permanent delete your entire account.
 </p>
                         </li>
-           
- </ul>
+                        
+  </ul>
 
- </div>
-               </div>
+  </div>
+</div>
 
 
 
@@ -150,16 +145,17 @@ tags: [color-logo]
                     
 <ul class="address-list">
                         <li>
-                           <p>We protect all our applications with (Cross-site request forgery) CSRF Protection
+                           <p>All our applications are protected with CSRF Protection, to protect againts cross-site request forgery (CSRF) attacks.
 </p>
                         </li>
                         
- </ul>
+  </ul>
+
+  </div>
+  </div>
+
 
  </div>
- </div>
-
-</div>
 
 
 
@@ -178,21 +174,20 @@ tags: [color-logo]
     font-size: 23px;
 ">
     
-<i class="fa fa-lock" style="padding-right: 10px;"></i>3D Secure authentication
-
+ <i class="fa fa-lock" style="padding-right: 10px;"></i> 3D Secure payments
 </h4>
                     
 <ul class="address-list">
                         <li>
-                           <p>3D Secure is an authentication method used to verify a customer's identity before an online card purchase.
+                           <p>For extra fraud protection we use 3D Secure authentication method used to verify a customer's identity before an online card purchase.
 
 
 </p>
-                        </li>
+ </li>
                         
- </ul>
+</ul>
 
-   </div>
+ </div>
  </div>
 
 
@@ -209,7 +204,7 @@ tags: [color-logo]
     font-size: 23px;
 ">
     
- <i class="fa fa-lock" style="padding-right: 10px;"></i>Secure Data Encryption
+<i class="fa fa-lock" style="padding-right: 10px;"></i>Secure Data Encryption
 
 </h4>
                     
@@ -221,9 +216,9 @@ tags: [color-logo]
 </p>
                         </li>
                         
-</ul>
+ </ul>
 
- </div>
+  </div>
  </div>
 
 
@@ -249,17 +244,14 @@ tags: [color-logo]
 </p>
                         </li>
                         
+</ul>
 
- </ul>
-
+   </div>
  </div>
+
+  </div>
  </div>
-
-
-
- </div>
-         </div>
-</section>
+ </section>
 
 
 
