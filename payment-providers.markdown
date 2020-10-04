@@ -78,24 +78,17 @@ tags: [color-logo]
 <div class="blog-desc">
                         <div class="meta-image">
                            <div class="author-round">
-                              <img src="https://i.imgur.com/zF6DviU.png" alt="author">
+                              <img src="https://pbs.twimg.com/profile_images/1181112639101001728/NBqdcmm7_400x400.png" alt="author">
                            </div>
                            <div class="tags">
-                              
-
-
-
   <h3>Mollie</h3>
                            </div>
                         </div>
                         <div class="blog-text">
-                           
 <h4>Mollie helps businesses of all sizes to build more efficiently with a solid but easy-to-use payment solution. Start growing your business today.
-
-
 </h4>
 
-<a href="#" class="theme-btn mt-4" style="">Get started<span class="fa fa-chevron-right"></span></a>
+<a href="/payment-providers/mollie" class="theme-btn mt-4" style="">Read more<span class="fa fa-chevron-right"></span></a>
           
 </div>
                      </div>
