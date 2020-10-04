@@ -20,6 +20,21 @@
 ></script>
 
 <script>
+import * as Sentry from "@sentry/browser";
+import { Integrations } from "@sentry/tracing";
+
+Sentry.init({
+  dsn: 'https://3ffc0deef2ec45ecbc8cb39cc9a626a5@o456782.ingest.sentry.io/5450167',
+  integrations: [
+    new Integrations.BrowserTracing(),
+  ],
+
+  // We recommend adjusting this value in production, or using tracesSampler
+  // for finer control
+  tracesSampleRate: 1.0,
+});
+
+	
 	myUndefinedFunction();
 </script>
 
