@@ -1,6 +1,5 @@
 ---
 title: PayRequest | Payment Pages
-tags: [color-logo]
 description: Create your own payrequest.me payment page and share it with everyone.
 ---
 
