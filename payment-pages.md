@@ -6,18 +6,18 @@ description: Create your own payrequest.me payment page and share it with everyo
 
 <!-- Hero Section Start -->
  <section class="hero-section">
-         <!-- Hero Shape Start -->
+<!-- Hero Shape Start -->
       
 <div class="hero-shape5">
 <img src="https://payrequest.io/assets/logos/Icon%20white.png" alt="shape" style="max-width: 160px;">
          </div>
-         <!-- Hero Shape End -->
+<!-- Hero Shape End -->
           
  <!-- Hero Bg Start -->
 <div class="hero-bg">
             <img src="assets/img/hero_shape.png" alt="hero shape" />
          </div>
-         <!-- Hero Bg End -->
+<!-- Hero Bg End -->
           
 <div class="container">
             <div class="row align-items-center">
@@ -64,7 +64,7 @@ PayRequest makes it easy to create payment links and share them worldwide with a
             </div>
          </div>
       </section>
-      <!-- Hero Section End -->
+<!-- Hero Section End -->
        
    
 <!-- Companies Section Start -->
@@ -95,7 +95,7 @@ PayRequest makes it easy to create payment links and share them worldwide with a
             </div>
          </div>
       </section>
-      <!-- Companies Section End -->
+<!-- Companies Section End -->
        
 
 <!-- About Section Start -->
@@ -129,7 +129,7 @@ PayRequest makes it easy to create payment links and share them worldwide with a
                </div>
             </div>
          </div>
-         <!-- About Top End -->
+<!-- About Top End -->
           
 <!-- About Bottom Start -->
 <div class="about-bottom section_b_100">
@@ -153,10 +153,10 @@ PayRequest makes it easy to create payment links and share them worldwide with a
                   </div>
                </div>
             </div>
-         </div>
-         <!-- About Bottom End -->
-      </section>
-      <!-- About Section End -->
+</div>
+<!-- About Bottom End -->
+</section>
+<!-- About Section End -->
        
 
 
@@ -167,8 +167,8 @@ PayRequest makes it easy to create payment links and share them worldwide with a
          <div class="about-top-shape">
             <img src="http://themescare.com/demos/robofume-view/assets/img/about-shape.png" alt="about shape">
          </div>
-         <!-- Top Shape End -->
-         <!-- Bottom Shape Start -->
+<!-- Top Shape End -->
+<!-- Bottom Shape Start -->
 
 <!-- Bottom Shape End -->
  <!-- About Top Start -->
@@ -293,10 +293,10 @@ rounded {
                </div>
             </div>
          </div>
-         <!-- About Top End -->
+<!-- About Top End -->
           
 <!-- About Bottom Start -->
- <!-- About Bottom End -->
+<!-- About Bottom End -->
 </section>
 
 
