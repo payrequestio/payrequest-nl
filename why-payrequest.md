@@ -57,6 +57,16 @@ tags: [color-logo]
       </section>
 
 
+<section class="about-section">
+         <!-- Top Shape Start -->
+         <div class="about-top-shape">
+            <img src="http://themescare.com/demos/robofume-view/assets/img/about-shape.png" alt="about shape">
+         </div>
+         <!-- Top Shape End -->
+         <!-- Bottom Shape Start -->
+
+ <!-- Bottom Shape End -->
+ <!-- About Top Start -->
 <div class="about-top section_100">
             <div class="container">
              <div class="row align-items-center">
@@ -68,7 +78,7 @@ tags: [color-logo]
                   </div>
                   
 </div>
- <style>
+<style>
   .bubble-number {
     display: block;
     width: 50px;
@@ -178,6 +188,11 @@ rounded {
                </div>
             </div>
          </div>
+         <!-- About Top End -->
+          
+<!-- About Bottom Start -->
+<!-- About Bottom End -->
+</section>
 
 
 {% include why-section.html %}
