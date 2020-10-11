@@ -18,7 +18,6 @@ tags: [color-logo]
          </div>
 </section>
 
-
 <section class="about-page-section section_100">
          <div class="container">
             <div class="row">
