@@ -63,6 +63,16 @@ We connect your Stripe account to easily send stripe payment links via your own 
 
 
 
+<section class="about-section">
+         <!-- Top Shape Start -->
+         <div class="about-top-shape">
+            <img src="http://themescare.com/demos/robofume-view/assets/img/about-shape.png" alt="about shape">
+         </div>
+         <!-- Top Shape End -->
+         <!-- Bottom Shape Start -->
+
+ <!-- Bottom Shape End -->
+ <!-- About Top Start -->
 <div class="about-top section_100">
             <div class="container">
              <div class="row align-items-center">
@@ -184,3 +194,93 @@ rounded {
                </div>
             </div>
          </div>
+         <!-- About Top End -->
+          
+<!-- About Bottom Start -->
+<!-- About Bottom End -->
+</section>
+
+
+
+<section class="choose-section section_100">
+         <div class="choose-shape-bg">
+            <img src="http://themescare.com/demos/robofume-view/assets/img/hero-dot-shape.png" alt="choose">
+         </div>
+         <div class="container">
+          <div class="row align-items-center">
+               <div class="col-lg-6 col-md-12 col-sm-12">
+                  <div class="choose-left wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+                     <div class="section-title">
+                        <h2>Send <span>stripe payment links</span> <br>via PayRequest</h2>
+                     </div>
+                     <p>We replace all your payment tools in a handy dashboard where you can easily create stripe payment links and more.
+
+</p>
+                     <ul>
+                        <li><i class="fa fa-check-square-o"></i> Stripe Payment Provider</li>
+                        <li><i class="fa fa-check-square-o"></i> Branded Stripe Payment Page</li>
+                        <li><i class="fa fa-check-square-o"></i>3D Secure authentication
+</li>
+                        <li><i class="fa fa-check-square-o"></i>Send Payment Links</li>
+                        <li><i class="fa fa-check-square-o"></i>Multi-currency</li>
+                        <li><i class="fa fa-check-square-o"></i> 24/7 Support</li>
+                     </ul>
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-12 col-sm-12">
+                  <div class="choose-right">
+                     <div class="row">
+                        <div class="col-lg-6 col-md-6 col-sm-12">
+                           <div class="choose-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
+                              <div class="choose-icon">
+                                 <i class="fa fa-users"></i>
+                              </div>
+                              <h2><span class="counter">2500</span>+</h2>
+                              <p>Happy Customers</p>
+                              <div class="choose-icon-bottom">
+                                 <i class="fa fa-users"></i>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-sm-12">
+                           <div class="choose-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.4s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.4s; animation-name: fadeInUp;">
+                              <div class="choose-icon">
+                                 <i class="fa fa-cube"></i>
+                              </div>
+                              <h2><span class="counter">2</span>+</h2>
+                              <p>Integrations</p>
+                              <div class="choose-icon-bottom">
+                                 <i class="fa fa-cube"></i>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-sm-12">
+                           <div class="choose-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInUp;">
+                              <div class="choose-icon">
+                                 <i class="fa fa-thumbs-up"></i>
+                              </div>
+                              <h2><span class="counter">135</span>+</h2>
+                              <p>Payment Links</p>
+                              <div class="choose-icon-bottom">
+                                 <i class="fa fa-thumbs-up"></i>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-sm-12">
+                           <div class="choose-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInUp;">
+                              <div class="choose-icon">
+                                 <i class="fa fa-trophy"></i>
+                              </div>
+                              <h2><span class="counter">1400</span>+</h2>
+                              <p>Awards Winning</p>
+                              <div class="choose-icon-bottom">
+                                 <i class="fa fa-trophy"></i>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
