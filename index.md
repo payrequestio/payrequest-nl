@@ -23,9 +23,9 @@ description: Everything you need to accept payments and to sell online.
             <div class="row align-items-center">
              <div class="col-lg-6 col-md-6">
                   <div class="hero-left">
-                     <h2> Create your own
+                     <h2> No-code
 
-<span class="underline">Payment Page</span></h2>
+<span class="underline">Payment Platform</span></h2>
 
 
 <p style="
