@@ -24,7 +24,21 @@ description: Everything you need to accept payments and to sell online.
              <div class="col-lg-6 col-md-6">
                   <div class="hero-left">
                      <br />
-                     <h2> Accept Payments
+                     <span class="label label-primary" style="
+    display: inline;
+    padding: .2em .6em .3em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    background-color: #03acca;
+    color: white;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+">Supporting 200 countries</span>
+
+<h2> Accept Payments
 
 <span class="underline">Worldwide</span></h2>
 
