@@ -23,6 +23,7 @@ description: Everything you need to accept payments and to sell online.
             <div class="row align-items-center">
              <div class="col-lg-6 col-md-6">
                   <div class="hero-left">
+                     <br />
                      <h2> Accept Payments
 
 <span class="underline">Worldwide</span></h2>
