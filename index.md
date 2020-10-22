@@ -409,9 +409,6 @@ Payment Links</h3>
          </div>
       </section>
  <!-- Blog Section End -->
-     
-
-<?php include "includes/features-section.php"; ?>     
 
  <!-- Pricing Section Start -->
 <section class="pricing-section section_100">
@@ -519,7 +516,6 @@ Payment Links</h3>
                                     <li>Unlimited Staff</li>
                                  </ul>
                                  <a href="#" class="theme-btn mt-4">Order Now <span class="fa fa-chevron-right"></span></a>
-                                 <p class="hidden-charge mt-3">No hidden charges!</p>
                               </div>
                            </div>
                         </div>
@@ -530,3 +526,7 @@ Payment Links</h3>
          </div>
   </section>
 <!-- Pricing Section End -->
+
+
+
+{% include footer-promo.html %}
