@@ -110,11 +110,12 @@ use your own logo, company background.
 <!-- About Top Start -->
 <div class="about-top section_100">
             <div class="container">
-             <div class="row align-items-center">
+          <div class="row align-items-center">
                   <div class="col-lg-6">
                      <div class="about-left wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeInLeft;">
-                        <h3>Manage all<br>Your Payment Pages<br>And Payment Links</h3>
-                        <p>The PayRequest Dashboard lets you manage all your payment links and more, with a simple overview you can view all status and reminders that are send, you will also get a log update when someone views, payment or pays your payment link.
+                        <h3>Show your<br>Donation progress<br>With a donation feed </h3>
+                        <p>PayRequest not only makes it easy to create a donation page, you can also setup your donation goal, follow the progress via a realtime bar and see the latests donation via the donations feed.
+
 
 </p>
                       
@@ -122,7 +123,7 @@ use your own logo, company background.
                   </div>
                   <div class="col-lg-6">
                      <div class="about-right wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
-                        <img src="https://payrequest.io/assets/img/banners/dashboard.png" alt="about">
+                        <img src="https://i.imgur.com/ytFFHEZ.png" alt="about">
                      </div>
                   </div>
                </div>
