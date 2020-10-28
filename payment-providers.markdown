@@ -156,3 +156,5 @@ tags: [color-logo]
          </div>
       </section>
 
+{% include why-section.html %}
+{% include footer-promo.html %}
