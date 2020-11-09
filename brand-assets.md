@@ -3,8 +3,7 @@ title: Brand Assets
 tags: [color-logo]
 ---
 
-
-
+<!-- Done for the new website! -->
 
 
   <!-- Breadcrumb Start -->

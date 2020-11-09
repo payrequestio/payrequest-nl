@@ -148,7 +148,7 @@ description: Everything you need to accept payments and to sell online.
              <div class="row align-items-center">
                   <div class="col-lg-6">
                      <div class="about-left wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeInLeft;">
-                        <h3>Manage all<br>Your Payment Pages<br>And Payment Links</h3>
+                        <h3>Manage your<br> Payment Pages<br>And Payment Links</h3>
                         <p>The PayRequest Dashboard lets you manage all your payment links and more, with a simple overview you can view all status and reminders that are send, you will also get a log update when someone views, payment or pays your payment link.
 
 </p>
@@ -181,7 +181,10 @@ description: Everything you need to accept payments and to sell online.
                
  </div>
  <div class="row">
-               <div class="col-lg-4 col-md-6">
+
+
+  <!-- Payment Links block Start -->
+<div class="col-lg-4 col-md-6">
                   <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
                      <div class="blog-image">
                         <a href="#">
@@ -191,27 +194,21 @@ description: Everything you need to accept payments and to sell online.
   <div class="blog-desc">
                         
 <div class="blog-text">
-                           <a href="#">
-                              <h3> 
-    <i class="fa fa-link" style="color: #25b7c7;"></i>
-    
-Payment Links</h3>
-
-<h5 style="
-    margin-top: 10px;
-"> Create and share payment links in seconds, .
-
- </h5>
-                           </a>
+<a href="/payment-links"><h3> <i class="fa fa-link" style="color: #25b7c7;"></i>Payment Links</h3>
+<h5 style="margin-top: 10px;"> Create and share payment links in seconds, .
+ </h5></a>
                         </div>
                      </div>
                   </div>
-               </div>
-               <div class="col-lg-4 col-md-6">
-                  <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+</div>
+  <!-- Payment Links block End -->
+
+
+<div class="col-lg-4 col-md-6">
+ <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
                      <div class="blog-image">
                         <a href="#">
-                        <img src="https://i.imgur.com/nh9CnvP.png" alt="blog">
+                        <img src="https://i.imgur.com/nh9CnvP.png" alt="donation pages">
                         </a>
                      </div>
  <div class="blog-desc">
@@ -442,9 +439,9 @@ Payment Links</h3>
                               <div class="pricing-body">
                                  <ul>
                                     <li>Only for succesful transactions</li>
-                                    <li>Free branded payment page</li>
+                                    <li>Your own payment page</li>
                                     <li>Unlimited Payment Links</li>
-                                    <li>Unlimited Integrations</li>
+                                    <li>Free Integrations</li>
                                     <li class="">24/7 Customer Support</li>
                                     
  </ul>

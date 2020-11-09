@@ -3,6 +3,8 @@ title: Payments Glossary
 tags: [color-logo]
 ---
 
+<!-- Done for the new website! -->
+
 
  <section class="breadcrumb-area">
          <div class="breadcrumb-shape"></div>
