@@ -67,6 +67,7 @@ tags: [color-logo]
 
 
 </h3>
+<a href="#" class="theme-btn mt-4"> Create Your Free Account<span class="fa fa-chevron-right"></span></a>
                      
 </div>
 </div>
