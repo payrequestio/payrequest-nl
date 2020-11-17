@@ -104,8 +104,8 @@ PayRequest makes it easy to share your own payment page on your website, redirec
 </div>
 </div>
 <div class="col-lg-6">
-<script async="" src="//jsfiddle.net/payrequest/5o972wne/8/embed/html,result/dark/"></script><iframe src="https://jsfiddle.net/5o972wne/8/embedded/html,result/dark/?username=payrequest" id="JSFEMB_18583" width="100%" height="196" frameborder="0" sandbox="allow-modals allow-forms allow-same-origin allow-scripts allow-popups allow-top-navigation-by-user-activation allow-downloads" allow="midi; geolocation; microphone; camera; display-capture; encrypted-media;"></iframe>
-<script async="" src="https://static.codepen.io/assets/embed/ei.js"></script>
+<script async="" src="//jsfiddle.net/payrequest/5o972wne/8/embed/html,result/dark/"></script>
+
 </div>
     </div>
  </div>
