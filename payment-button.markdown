@@ -22,7 +22,7 @@ title: Payment Button
             <div class="row align-items-center">
              <div class="col-lg-6 col-md-6">
                   <div class="hero-left">
-                     <h2>Place a free 
+                     <h2>Get your own 
 <span class="underline">Payment Button</span></h2>
 
 
@@ -84,19 +84,48 @@ PayRequest makes it easy to share your own payment page on your website, redirec
 
 
 
+<section class="about-section">
+         <!-- Top Shape Start -->
+         <div class="about-top-shape">
+            <img src="http://themescare.com/demos/robofume-view/assets/img/about-shape.png" alt="about shape">
+         </div>
+         <!-- Top Shape End -->
+         <!-- Bottom Shape Start -->
 
-<div class="row">  
+ <!-- Bottom Shape End -->
+ <!-- About Top Start -->
+<div class="about-top section_100">
+            <div class="container">
+             <div class="row align-items-center">
+                  <div class="col-lg-6">
+                     <div class="about-left wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeInLeft;">
+                        <h3>Manage all<br>Your Payment Pages<br>And Payment Links</h3>
+                        <p>The PayRequest Dashboard lets you manage all your payment links and more, with a simple overview you can view all status and reminders that are send, you will also get a log update when someone views, payment or pays your payment link.
+
+</p>
+                      
+</div>
+</div>
+<div class="col-lg-6">
 <script async src="//jsfiddle.net/payrequest/5o972wne/8/embed/html,result/dark/"></script>
 <script async="" src="https://static.codepen.io/assets/embed/ei.js"></script>
-        </div>
-                
- </div>
-            </div>
-        </div>
+</div>
     </div>
+ </div>
+ </div>
+ <!-- About Top End -->
+ <!-- About Bottom Start -->
+ 
+ <!-- About Bottom End -->
 </section>
 
 
-{% include payment-dashboard-block.html %}
+{% include why-section.html %}
+{% include footer-promo.html %}
+
+
+
+
+
 
 
