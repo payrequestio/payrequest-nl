@@ -373,3 +373,7 @@ PayRequest makes it easy to create payment links and share them worldwide with a
   </div>
 </div>
   </section>
+
+
+
+  {% include footer-promo.html %}
