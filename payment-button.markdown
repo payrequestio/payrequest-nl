@@ -82,8 +82,6 @@ PayRequest makes it easy to share your own payment page on your website, redirec
 
 
 
-
-
 <section class="about-section">
          <!-- Top Shape Start -->
          <div class="about-top-shape">
@@ -99,15 +97,14 @@ PayRequest makes it easy to share your own payment page on your website, redirec
              <div class="row align-items-center">
                   <div class="col-lg-6">
                      <div class="about-left wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeInLeft;">
-                        <h3>Manage all<br>Your Payment Pages<br>And Payment Links</h3>
-                        <p>The PayRequest Dashboard lets you manage all your payment links and more, with a simple overview you can view all status and reminders that are send, you will also get a log update when someone views, payment or pays your payment link.
-
+                        <h3>Add the <br>HTML code<br>To your website</h3>
+                        <p>Just place the HTML code (right) on your WordPress or any other website that supports HTML, do not forget to the href= tag with your own payrequest.me link, if you need any help just get in touch with our support team.
 </p>
                       
 </div>
 </div>
 <div class="col-lg-6">
-<script async src="//jsfiddle.net/payrequest/5o972wne/8/embed/html,result/dark/"></script>
+<script async="" src="//jsfiddle.net/payrequest/5o972wne/8/embed/html,result/dark/"></script><iframe src="https://jsfiddle.net/5o972wne/8/embedded/html,result/dark/?username=payrequest" id="JSFEMB_18583" width="100%" height="196" frameborder="0" sandbox="allow-modals allow-forms allow-same-origin allow-scripts allow-popups allow-top-navigation-by-user-activation allow-downloads" allow="midi; geolocation; microphone; camera; display-capture; encrypted-media;"></iframe>
 <script async="" src="https://static.codepen.io/assets/embed/ei.js"></script>
 </div>
     </div>
@@ -118,6 +115,7 @@ PayRequest makes it easy to share your own payment page on your website, redirec
  
  <!-- About Bottom End -->
 </section>
+
 
 {% include why-section.html %}
 {% include footer-promo.html %}
