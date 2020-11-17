@@ -119,7 +119,6 @@ PayRequest makes it easy to share your own payment page on your website, redirec
  <!-- About Bottom End -->
 </section>
 
-
 {% include why-section.html %}
 {% include footer-promo.html %}
 
