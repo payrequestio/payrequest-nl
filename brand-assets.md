@@ -399,3 +399,5 @@ tags: [color-logo]
          </div>
       </div>
 <!-- End Search Overlay -->
+
+{% include footer-promo.html %}
