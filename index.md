@@ -38,18 +38,14 @@ description: Everything you need to accept payments and to sell online.
     border-radius: .25em;
 ">Supporting 200 countries</span>
 
-<h2> Accept Payments
+<h2> Accepteer Betalingen
 
-<span class="underline">Worldwide</span></h2>
+<span class="underline">Wereldwijd</span></h2>
 
 
-<p style="
-    font-size: 20px;
-">PayRequest makes it easy to create your own branded payment page, and send payment links to all your customers.
+<p style="font-size: 20px;">PayRequest maakt het eenvoudig om je eigen betaal pagina te maken, en om betaallinks te versturen.</p>
 
-</p>
-
-<a href="#" class="theme-btn mt-4"> Create Your Free Account<span class="fa fa-chevron-right"></span></a>
+<a href="#" class="theme-btn mt-4"> Gratis Account Aanmaken<span class="fa fa-chevron-right"></span></a>
 
   </div>
 
