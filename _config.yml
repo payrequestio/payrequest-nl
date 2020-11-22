@@ -1,5 +1,5 @@
 ---
-title: PayRequest.io | Simple fast payment links
+title: PayRequest.nl | Simple fast payment links
 timezone: UTC
 collections:
   posts:
@@ -8,7 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-name: payrequest site
+name: payrequest.nl site
 description: Lets you easily create payment links and share them via email or sms,
   we support all payment methods directly via your current payment provider.
 markdown: kramdown
